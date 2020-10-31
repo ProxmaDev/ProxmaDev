@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=LlamaDevelopment&show_icons=true&count_private=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LlamaDevelopment&layout=compact)
+![My Stats](https://github-readme-stats.vercel.app/api?username=ProxmaDev&show_icons=true&count_private=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProxmaDev&layout=compact)
 <!--
 **ProxmaDev/ProxmaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
